@@ -10,7 +10,7 @@
 
       <!-- Titre -->
       <h1 class="text-4xl md:text-5xl font-bold text-gray-900">
-        Bienvenue sur GSH Social
+        Bienvenue sur GSH Social !!
       </h1>
 
       <!-- Slogan -->
